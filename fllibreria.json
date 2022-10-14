@@ -1,7 +1,168 @@
 {
     "name": "fllibreria",
     "modifications": {
-        "addFile": [],
+        "addFile": [
+            {
+                "name": "model_fllibreria__ARRAY.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__ARRAY_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__CMD.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__CMD_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__CURSOR.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__CURSOR_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__DICT.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__DICT_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__EXCEL.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__EXCEL_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__FILE.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__FILE_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__flpermissions.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__flpermissions_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__HTTP.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__HTTP_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__LOG.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__LOG_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__MAVE.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__MAVE_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__MODEL.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__MODEL_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__SQL.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__SQL_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__STR.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__STR_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__TBL.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__TBL_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__UI.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__UI_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__UI_seleccion_registro.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__UI_seleccion_registro_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__UTIL.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__UTIL_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__XML.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllibreria__XML_def.py",
+                "path": "models/fllibreria/"
+            },
+            {
+                "name": "model_fllogin__auth_user.py",
+                "path": "models/fllogin/"
+            },
+            {
+                "name": "model_fllogin__auth_user_def.py",
+                "path": "models/fllogin/"
+            },
+            {
+                "name": "model_fllogin__auth_group.py",
+                "path": "models/fllogin/"
+            },
+            {
+                "name": "model_fllogin__auth_group_def.py",
+                "path": "models/fllogin/"
+            }
+        ],
         "replaceFile": [
             {
                 "name": "dependencias.json",

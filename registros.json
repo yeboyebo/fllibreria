@@ -1,3 +1,23 @@
 {
-    "modifications": []
+    "modifications": [
+        {
+            "type": "insertAfterNode",
+            "path": "/root",
+            "value": {
+                "fllibreria": {
+                    "flpermissions": null
+                }
+            }
+        },
+        {
+            "type": "insertAfterNode",
+            "path": "/fllibreria",
+            "value": {
+                "fllogin": {
+                    "auth_group": null,
+                    "auth_user": null
+                }
+            }
+        }
+    ]
 }
