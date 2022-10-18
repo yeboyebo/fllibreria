@@ -125,13 +125,6 @@
         },
         {
             "type": "insertAfterNode",
-            "path": "/portal",
-            "value": {
-                "libreria": {}
-            }
-        },
-        {
-            "type": "insertAfterNode",
             "path": "/models/root",
             "value": {
                 "fllibreria": {
