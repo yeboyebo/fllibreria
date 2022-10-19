@@ -5,7 +5,24 @@
             "path": "/root",
             "value": {
                 "fllibreria": {
-                    "flpermissions": null
+                    "ARRAY": null,
+                    "CMD": null,
+                    "CURSOR": null,
+                    "DICT": null,
+                    "EXCEL": null,
+                    "FILE": null,
+                    "flpermissions": null,
+                    "HTTP": null,
+                    "LOG": null,
+                    "MAVE": null,
+                    "MODEL": null,
+                    "SQL": null,
+                    "STR": null,
+                    "TBL": null,
+                    "UI": null,
+                    "UI_seleccion_registro": null,
+                    "UTIL": null,
+                    "XML": null
                 }
             }
         },
@@ -14,8 +31,8 @@
             "path": "/fllibreria",
             "value": {
                 "fllogin": {
-                    "auth_group": null,
-                    "auth_user": null
+                    "auth_user": null,
+                    "auth_group": null
                 }
             }
         }

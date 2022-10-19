@@ -128,24 +128,7 @@
             "path": "/models/root",
             "value": {
                 "fllibreria": {
-                    "ARRAY": null,
-                    "CMD": null,
-                    "CURSOR": null,
-                    "DICT": null,
-                    "EXCEL": null,
-                    "FILE": null,
-                    "flpermissions": null,
-                    "HTTP": null,
-                    "LOG": null,
-                    "MAVE": null,
-                    "MODEL": null,
-                    "SQL": null,
-                    "STR": null,
-                    "TBL": null,
-                    "UI": null,
-                    "UI_seleccion_registro": null,
-                    "UTIL": null,
-                    "XML": null
+                    "flpermissions": null
                 }
             }
         },
