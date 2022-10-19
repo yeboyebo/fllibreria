@@ -9,7 +9,6 @@
                     "CMD": null,
                     "CURSOR": null,
                     "DICT": null,
-                    "EXCEL": null,
                     "FILE": null,
                     "flpermissions": null,
                     "HTTP": null,
@@ -19,7 +18,6 @@
                     "SQL": null,
                     "STR": null,
                     "TBL": null,
-                    "UI": null,
                     "UI_seleccion_registro": null,
                     "UTIL": null,
                     "XML": null
