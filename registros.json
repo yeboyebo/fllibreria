@@ -13,6 +13,7 @@
                     "flpermissions": null,
                     "HTTP": null,
                     "LOG": null,
+                    "META": null,
                     "MODEL": null,
                     "SQL": null,
                     "STR": null,
